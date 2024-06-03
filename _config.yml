@@ -11,10 +11,10 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: sk
+    - name: 홈
       slug: /
-    - name: Work
-    - name: Blog
+    - name: 이야기
+    - name: 일대기
 
 footer:
   show_powered_by: true
