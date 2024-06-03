@@ -17,7 +17,7 @@ header:
     - name: 일대기
 
 footer:
-  show_powered_by: false
+  show_powered_by: true
   contact:
     - type: email
       name: Email
