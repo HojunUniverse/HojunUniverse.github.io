@@ -1,20 +1,33 @@
 ---
-layout: work
-title: Work
-slug: /work
+layout: 홈
+title: 홈
+slug: /홈
 items:
-  - title: 나의 이야기 1
+  - title: 나의 이야기 - 희
     image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: 나의 이야기 2
+      src: /assets/img/happy.PNG
+      alt: Happy
+    description: 저에게 있어서 요즘 가장 행복한 일은 축구를 보는 거 입니다. 제가 응원하는 팀은 아스날이라는 팀입니다. 제가 이 팀을 응원하게 된 이유는 2010년 당시
+    바르셀로나라는 팀이 메시를 필두로 유럽축구 무대를 압도했습니다. 당시에 그런 바르셀로나를 상대로 이긴 팀이 몇 안됐습니다. 그 몇 안되는 팀 중 하나가 아스날이였고
+    최강의 바르셀로나를 챔피언스리그 무대에서 잡은 아스날에 감동해 저는 아스날을 응원하게 되었습니다. 그러나 불과 2시즌 전까지 아스날은 그때의 아스날의 모습을 보여주지 못했습니다. 하지만 최근 아스날은 리그 최상위권을 맴돌며 좋은 모습을 보여주고 최근 20경기 동안 맨시티 상대로 승리를 못챙기는 치욕적인 모습을 보여주다 처음으로 홈에서 승리를 가져갔습니다. 그리고 그 승리를 가져간 날 제 인생에서 가장 즐거웠습니다.
+  - title: 나의 이야기 - 노
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      src: /assets/img/Angry.PNG
+      alt: Angry
+    description: 저는 몸이 안좋은것과는 별개로 성장속도는 또래 아이들과는 굉장히 빠른 편입니다. 그래서 남들 20대 때 자라는 사랑니가 저는 15살 때 자랐습니다. 당시 교정을 하고 있었는데 교정 담당 의사 선생님은 발치를 권하셨고 결국 같은 치과에 발치를 담당하는 의사분에 사랑니 발치를 받게 되었습니다. 발치를 받기 전 사랑니 발치에 대해 찾아본 저는 이 과정이 일반 치아의 발치 과정과는 매우 다른 것을 깨닫고 심각하게 긴장했습니다. 하지만 발치 담당 선생님이 나이를 지극히 드신 매우 베테랑의 냄새를 풍기시는 선생님이였기에 걱정은 되지 않았습니다. 그렇게 발치가 시작되고 마치를 첫번째로 했습니다. 마치가 완료되고 본격적인 발치가 시작되었습니다. 그렇게 몇 분이 시간이 지난 후 마치가 풀린다는 것을 느끼고 발을 들어 신호를 보냈습니다. 그러자 의사 선생님은 "거의 다 마무리 되었으니 참으세요"라고 했습니다. 저는 참을 수 없는 고통에 두 다리와 팔을 계속 올렸음에도 불구하고 의사 선생님은 아랑곳 않고 수술을 마무리 했습니다. 눈물을 흘리면서 로비로 나왔고 아무 생각이 안날 정도로 고통이 엄청났습니다. 얼마나 아팠는지 말하자면 강남역에서 발치를 했고 집인 안양까지 가는 택시에서 40분동안 통곡을 할 정도로 아팠고 의사에 대한 분노 밖에 머리속에 떠오르지 않았습니다.
+     - title: 나의 이야기 - 애
+    image:
+      src: /assets/img/Sad.PNG
+      alt: Sad
+    description: 저는 태생적으로 몸이 약했습니다. 특히 어렸을 때 아토피가 굉장히 심했습니다. 한번 씻으면 피로 인해 물이 빨개질 정도로 아토피 정도는 심했습니다. 그런 아토피에 가장 중요한 것은 보습입니다. 그래서 항상 저의 어머니는 로션을 발라주시고 가습기를 강하게 틀어주셨습니다. 그렇게 나이가 한 살씩 먹고 때는 제가 4학년이 되던 해에 일이 터집니다. 갑자기 어느날부터 마른기침이 멈추지 않고 나왔습니다. 그래서 병원을 가보니 충격적이게도 천식이라고 병명을 내렸습니다. 하지만 그렇게 약을 처방받고 먹어도 기침은 나아지지 않았습니다. 그러한 이유로 여러 종합병원을 다니고 입원도 해보았습니다. 하지만 뚜렷한 근거를 찾지 못하고 결국에는 틱장애로 판단받았습니다. 특히 어느 병원 의사들은 제가 꾀병을 부리기 위해 일부러 기침하는 줄 알고 계속 "멈춰"라고 강요한 것이 아직도 너무나도 힘든 기억입니다. 그렇게 몇개월이 지나고 기침은 결국 멈추었습니다. 그렇게 또 몇 년이 지난 후, 신문에 가습기 살균제라는 주제로 기사가 올라왔습니다. 물론 저와는 다른 이야기인줄 알았습니다. 하지만 증상,기간 그리고 실제로 살균제를 쓴 사실이 저와는 더이상 연관이 없지 않다는 것을 알려주었습니다.맞습니다, 저는 가습기 살균제 피해자였습니다.   
+     - title: 나의 이야기 - 락
+    image:
+      src: /assets/img/excited.PNG
+      alt: exicted
+    description: 저는 가수의 콘서트나 페스티벌 가는 것을 좋아합니다. 때는 1년 전인 2023년 브루노 마스라는 음악계의 거물의 내한 콘서트가 확정되고 티켓팅하는 날 저는 대학교 수업도 빠지고 PC방에서 온정신을 한데 모아 클릭에 집중했습니다. 그럼에도 불구하고 클릭하자 제 앞에 3만명의 대기자가 티켓팅을 대기하고 있었습니다. 그렇게 티켓팅에 실패하고 절망에 빠진 저에게 얼마 후, 구원의 손이 등장했습니다. 친형이 티켓팅에 성공하고 저에게 동행을 권유했습니다. 저는 당연히 오케이를 외쳤습니다.
+    그렇게 공연 당일, 그동안 경험하지 못한 분위기, 세계적 가수의 위대함을 느끼고 말로 이룰 수 없는 즐거움을 콘서트 내내 느꼈습니다.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+저의 인생 속 희노애락에 알맞는 에피소드들을 준비해 보았습니다.
 <br />
 <br />
