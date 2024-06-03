@@ -11,7 +11,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: 홈임
+    - name: 홈
       slug: /
     - name: 이야기
     - name: 일대기
