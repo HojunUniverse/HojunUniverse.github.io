@@ -1,7 +1,7 @@
 ---
-layout: 홈
-title: 홈
-slug: /홈
+layout: 이야기
+title: 이야기
+slug: /이야기
 items:
   - title: 나의 이야기 - 희
     image:
