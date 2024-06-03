@@ -21,7 +21,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: hojun0302@naver.com
     - type: wechat
       value: YourWeChatUsername
       link: "#"
