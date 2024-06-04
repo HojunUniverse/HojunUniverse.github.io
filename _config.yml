@@ -14,7 +14,7 @@ header:
     - name: 홈
       slug: /
     - name: 이야기
-    - name: 일대기
+    - name: 후아유
 
 footer:
   show_powered_by: true
